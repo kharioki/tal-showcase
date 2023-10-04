@@ -17,8 +17,8 @@ const Button = ({ assetUrl, link }) => {
         height={20}
       />
       <div className='flex flex-col justify-start ml-4'>
-        <p className={`text-white font-IBMPlex minmd:text-lg font-normal text-xs`}>View it on</p>
-        <p className={`text-white font-IBMPlex minmd:text-lg font-bold text-sm`}>Expo Store</p>
+        <p className={`text-white font-IBMPlex minmd:text-lg font-normal text-xs`}>Download</p>
+        <p className={`text-white font-IBMPlex minmd:text-lg font-bold text-sm`}>Android App</p>
       </div>
     </div>
   )

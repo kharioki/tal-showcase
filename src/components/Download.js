@@ -18,7 +18,7 @@ const Download = () => {
         </div>
         <Button
           assetUrl={assets.expo}
-          link='https://expo.dev/@kharioki_tony/nft-marketplace?serviceType=classic&distribution=expo-go'
+          link='https://expo.dev/artifacts/eas/eqNLXhUiEWwiCXgw2FeyqU.aab'
         />
         {/* <button className='bg-primary mt-4 py-4 px-6 text-white text-lg minmd:text-2xl font-IBMPlex font-medium rounded-lg hover:shadow-2xl'>
           Source Code
